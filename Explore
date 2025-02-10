@@ -1,0 +1,15 @@
+There is mainly five types of functional units
+Those are Input, Output, Memory, Arithmetic Logic Unit (ALU) and Control Unit (CU).
+Input and output sections together are known as I/O while ALU and CU together are called processors. 
++-------------------+       +-------------------+       +-------------------+
+|  Input Unit       |       |  Central          |       |  Output Unit      |
+|  (Keyboard, Mouse)|       |  Processing Unit  |       |  (Monitor, Printer)|
+|                   |       |  (CPU)            |       |                   |
++--------+----------+       +--------+----------+       +----------+--------+
+         |                           |                           |
+         |                           |                           |
+         v                           v                           v
++-------------------+       +-------------------+       +-------------------+
+|  Memory Unit      |<----->|  Control Unit     |<----->|  Arithmetic Logic |
+|  (RAM, ROM)       |       |  (Manages Operations)|    |  Unit (ALU)       |
++-------------------+       +-------------------+       +-------------------+
