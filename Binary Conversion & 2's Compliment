@@ -25,6 +25,8 @@ vi) (1 × 2⁰) = 1
 Adding up: 32 + 0 + 0 + 0 + 0 + 1 = 33
 Thus, 100001 in decimal is 33.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Two's Complement (8-bit): Negative values are represented in binary by using two's complement. This method simplifies arithimatic operations.
 
 Steps to find 2's complement:
