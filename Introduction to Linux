@@ -1,1 +1,18 @@
-
+Linux is open-source, which is unix-like operating system that serves as the foundation for various operating systems.
+This is widely used in servers, embedded systems, desktops and mobile devices.
+The reason why to use linux: i) Its is open and free source.
+                            ii) It is less prone to crashes and malware compared to windows.
+                           iii) It also offers efficient scripting and automation capabilities.
+                            iv) It is suitable for old hardware and high performance tasks.
+There are various popular linux distributions such as Ubuntu, Debian, Fedora, Arch linux, Kali linux.
+All these are used for specific reasons as Ubuntu is beginner-friednly and widely used where as Kali is used for penetration testing and security research.
+Following are the basic linux commands:
+i)   ls - List files and directories.
+ii)  cd - Change directory
+iii) pwd - Show current directory
+iv)  cp – Copy file
+v)   mkdir – Create a directory
+vi)  rm – Remove files or directories
+vii) mv – Move or rename files
+viii) chmod – Change file permissions
+ix)  exit - Exiting Your Terminal
