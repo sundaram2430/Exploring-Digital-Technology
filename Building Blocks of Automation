@@ -1,0 +1,28 @@
+General Structure of Automation system:
+
+         +-----------------+       +-----------------+       
+  r ---->|     ⊕ (Error)    |----->|   Controller    |----->|   System     |----> y
+         |                 |       |                 |       |             |       
+         |                 |       +-----------------+       +-------------+       
+         |                 |                                        |                
+         |                 |                                        v               
+         |                 |                             (Disturbance Input)       
+         |                 |                                        |                
+         |                 |                                        v                
+         |                 |---------------------------------------->                
+         |                 |                                        |                
+         |                 |                                        v                
+         |                 |----------------------> Measurement ----|
+         |                                                                         |
+         |-------------------------------------------------------------------------|
+                                (Feedback Loop)
+Where, 
+r= Reference Input
+⊕= Summation, it computes error (e= r - y) by comparing reference input and actual output
+Controller: Takes e and decides corrective action.
+System: Executes the control action and produces output (y).
+Disturbance: Uncontrollable external factors affecting the system.
+Measurement: Monitors Output (y) and feeds it back for correction.
+Feedback Loop: It continuously monitors and adjusts a system's performance to maintain stability and accuracy.
+
+Feedback is the core of the Automation. 
