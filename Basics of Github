@@ -6,3 +6,21 @@ Reasons to use git and github: (i) It track changes in code.
                              (iii) It helps developers to collaborate across the globe.
                               (iv) It has open-source contributions.
                                (v) It helps to work on features without affecting the main code.
+Basic Git Commands:
+(i)    git init :  For initialize a new Git repo.
+(ii)   git clone <url>: Copy a github repo to your local machine.
+(iii)  git status : Check th status of your files
+(iv)   git add <file> : stage file for commit
+(v)    git commit -m "message" : Save your changes with a message
+(vi)   git push :	Upload changes to GitHub
+(vii)  git pull :	Get the latest changes from GitHub
+(viii) git branch	: View branches
+(ix)   git checkout -b <branch> :	Create & switch to new branch
+(x)    git branch -d <name> : Delete branch (if already merged)
+(xi)   git merge <branch> : Merge another branch into current
+
+Git forges like GitHub/GitLab offer:
+Issue tracking (#1, Fix #1 closes issues)
+Pull/Merge Requests (for review and discussion)
+CI/CD automation with .github/workflows/
+Project wiki, static pages, release packages
