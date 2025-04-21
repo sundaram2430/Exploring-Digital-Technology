@@ -1,0 +1,8 @@
+This repository consists of the basic git commands and bit details about github.
+In broader terms git is a vrsion control system that helps to tracck changes in code and collaborate with others.
+Github is a cloud based platform that hosts git reposistories and make collaboration easier.
+Reasons to use git and github: (i) It track changes in code.
+                              (ii) It also keep history of work.
+                             (iii) It helps developers to collaborate across the globe.
+                              (iv) It has open-source contributions.
+                               (v) It helps to work on features without affecting the main code.
