@@ -1,0 +1,32 @@
+TCP stands for Transmission Control Protocol where as IP stands for Internet Protocol.
+TCP & IP are the fundamental suite of communication protocols for the internet also the backbone of th internet.
+TCP ensures rliable transmission such as phone call, etc... where as IP handles addressingeand routing- like 
+writing a postal address on a package.
+TCP/IP basically breaks data into packets then send them across networks and resembles them.
+In comparision between TCP/IP and OSI, TCP/IP uses 4 layers where as OSI uses 7 layers, but they serv similar functions.
+
+
+There are four layers of TC/IP Model:
+(I)  Network Interface: It Handles physical transmission of data. 
+                        Also responsible for devic-to-device communication in same network.
+                        Such as Ethernet, Wi-Fi ...
+(ii) Internet Layer: It Routes packets across networks.
+                     Also provides logocal addrssing.
+                     Key protocols such as IP, ICMP ...
+(iii) Transport Layer: It Manages end-to-end communication.
+                       Two main protocols are TCP and UDP (User Datagram Protocol)...
+(iv)  Application Layer: It Supports network services & apps.
+                         It acts as a interferaces with user applications.
+                         Protocols such as HTTP, FTP, DNS, SMTP...
+
+
+IP Addresses & Routing:
+Every device has an IP address (such as: 192.167.1.1).
+Routers move data between networks using these IP addresses.
+Public IPs are routable across the internet.
+
+Common TCP/IP Protocols
+(i)  HTTP/HTTPS – web browsing
+(ii) FTP/SFTP – file transfers
+(iii)SMTP/IMAP – email
+(iv) DNS – domain name resolution
